@@ -1,5 +1,4 @@
-//WRITTEN BY MANANSH SHUKLA
-//UCID:30065364
+//WRITTEN BY MANANSH
 #include<stdio.h>
 #include <stdlib.h>
 #include <time.h>
